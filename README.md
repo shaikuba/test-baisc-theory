@@ -4,7 +4,6 @@
 <a href="https://jq.qq.com/?_wv=1027&k=EQGVQd8Z">软件测试交流学习群</a>
 </p>
 <br/>
-[更多资料免费领取](https://jq.qq.com/?_wv=1027&k=EQGVQd8Z)
 
 ## 软件测试理论基础
 
